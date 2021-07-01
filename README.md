@@ -1,6 +1,8 @@
 # RollingTweetCleaner
 Periodically delete old tweets/retweets/favorits
 
+Runs by Github Actions
+
 ## Parameters
 
 Checking interval: https://github.com/birdpocket/RollingTweetCleaner/blob/3796ae8bf6551343f9e8e224c4b4a3809b77d349/.github/workflows/schedule.yml#L5
